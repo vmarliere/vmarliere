@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vmarliere
-- 👀 I’m interested in C/C++, Java, Javascript, Python
-- 🌱 I’m currently learning Algorithms, Data Structures, C, Python
+- 👀 I’m interested in C/C++, Oracle SQL
+- 🌱 I’m currently learning Data Structures, Oracle SQL, RDBMS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
